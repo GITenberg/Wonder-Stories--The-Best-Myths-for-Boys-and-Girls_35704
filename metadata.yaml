@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8801
     wikipedia: http://en.wikipedia.org/wiki/Carolyn_Sherwin_Bailey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35704#Wonder-Stories--The-Best-Myths-for-Boys-and-Girls
 gutenberg_issued: '2011-03-29'
 gutenberg_type: Text
 identifiers:
