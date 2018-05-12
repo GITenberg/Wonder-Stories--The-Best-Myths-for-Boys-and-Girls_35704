@@ -1,0 +1,52 @@
+_repo: Wonder-Stories--The-Best-Myths-for-Boys-and-Girls_35704
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Burd, C. M. (Clara Miller)
+    alias: Burd, Clara Miller
+    birthdate: 1873
+    deathdate: 1933
+    gutenberg_agent_id: '37845'
+    url: http://www.gutenberg.org/2009/agents/37845
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bailey, Carolyn Sherwin
+    alias: Hill, Carolyn Sherwin Bailey
+    birthdate: 1875
+    deathdate: 1961
+    gutenberg_agent_id: '8801'
+    url: http://www.gutenberg.org/2009/agents/8801
+    wikipedia: http://en.wikipedia.org/wiki/Carolyn_Sherwin_Bailey
+description: ''
+gutenberg_issued: '2011-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35704'
+  lccn: '20012815'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mythology, Classical -- Juvenile literature'
+- !lcc 'PZ'
+tableOfContents: How the myths began -- What Prometheus did with a bit of clay --
+  The paradise of children / Nathaniel Hawthorne -- What became of the giants -- How
+  vulcan made the best of things -- How Orion found his sight -- The wonders Venus
+  wrought -- Where the Labyrinth led -- How Perseus conquered the sea -- Pegasus,
+  the horse who could fly -- How Mars lost a battle -- How Minerva built a city --
+  Cadmus, the alphabet king -- The picture Minerva wove -- The hero with a fairy godmother
+  -- The pygmies / Nathaniel Hawthorne -- The horn of plenty -- The wonder the frogs
+  missed -- When Phaeton's chariot ran away -- When Apollo was herdsman -- How Jupiter
+  granted a wish -- How Hyacinthus became a flower -- How King Midas lost his ears
+  -- How Mercury gave up his tricks -- A little errand girl's new dress -- When Proserpine
+  was lost -- The ploughman who brought famine -- The bee man of Arcadia -- When Pomona
+  shared her apples -- How Psyche reached mount olympus -- How Melampos fed the serpent
+  -- How a huntress became a bear -- The adventure of Glaucus -- The winning of the
+  golden fleece -- Medea's cauldron -- How a golden apple caused a war -- How a wooden
+  horse won a war -- The cyclops / Alfred Church -- Glossary.
+title: 'Wonder Stories: The Best Myths for Boys and Girls'
+url: http://www.gutenberg.org/ebooks/35704
